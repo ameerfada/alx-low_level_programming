@@ -3,6 +3,7 @@
 /**
  *  *main - prints a string with puts()
  *    *Return: NULL
+ear
 */
 int main(void)
 {
